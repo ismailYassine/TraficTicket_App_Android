@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="edit_Text_Styles" parent="@android:style/Widget.EditText">
+    <item name="android:textColorHint">#939393</item>
+    <item name="android:paddingLeft">10dp</item>
+    <item name="android:layout_height">55dp</item>
+    <item name="android:paddingEnd">10dp</item>
+    <item name="android:background">@drawable/text_field_style</item>
+</style>
+</resources>
